@@ -1,1 +1,2 @@
-# https-data.us-1.guide.crowdstrike.com-
+
+https://lc-update.humio.com/
